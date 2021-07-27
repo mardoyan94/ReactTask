@@ -7,7 +7,6 @@ import {
     BackHandler
 } from 'react-native'
 import { styles } from './styles'
-import { connect } from 'react-redux'
 import { SET_LIST, SET_LIST_LOADING } from '../../constants/actionsTypes'
 import { api } from '../../networking'
 
